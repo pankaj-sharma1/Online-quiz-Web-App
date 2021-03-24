@@ -1,4 +1,4 @@
-#About
+About
 
 An online quiz web app built using on PHP, Javascript, HTML, CSS and MySQL. 
 
