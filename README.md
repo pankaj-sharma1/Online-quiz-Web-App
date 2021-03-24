@@ -16,4 +16,4 @@ An online quiz web app built using on PHP, Javascript, HTML, CSS and MySQL.
 
 Homepage : 
 
-![1](images/homepage.png)
+![](quiz/images/homepage.png)
