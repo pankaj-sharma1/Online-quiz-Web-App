@@ -26,11 +26,11 @@ Add Quiz :
 
 ![](quiz/images/addQuiz.png)
 
-Leadorboard : 
+leaderboard : 
 
 ![](quiz/images/leaderBoard.png)
 
-Quiz : 
+Instructions : 
 
 ![](quiz/images/quiz.png)
 
