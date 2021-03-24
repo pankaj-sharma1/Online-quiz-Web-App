@@ -1,7 +1,7 @@
-About
+#About
 An online quiz web app built using on PHP, Javascript, HTML, CSS and MySQL. 
 
-#Added features: 
+#Features: 
 
 1. Add questions of quiz using admin panel.
 2. Use "Enable" and "Disable" button to enable and disable the quiz on the Admin panel.
