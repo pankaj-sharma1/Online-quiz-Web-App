@@ -17,3 +17,29 @@ An online quiz web app built using on PHP, Javascript, HTML, CSS and MySQL.
 Homepage : 
 
 ![](quiz/images/homepage.png)
+
+Admin panel : 
+
+![](quiz/images/Adminpanel.png)
+
+Add Quiz : 
+
+![](quiz/images/addQuiz.png)
+
+Leadorboard : 
+
+![](quiz/images/leaderBoard.png)
+
+Quiz : 
+
+![](quiz/images/quiz.png)
+
+Timer : 
+
+![](quiz/images/quizWithTimer.png)
+
+
+Result : 
+
+![](quiz/images/result.png)
+
